@@ -128,7 +128,8 @@ button:active {
     font-size: 2.5rem;
   }
   body {
-    background-repeat: repeat;
-    background-image: url("https://source.unsplash.com/random/640x960/?cat");
+    background-image: url("https://source.unsplash.com/random/1920x2880/?rabbit");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
   }
 }
